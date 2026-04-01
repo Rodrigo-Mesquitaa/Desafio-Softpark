@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="Softpark.Api/Softpark.Api.csproj" Id="ff6798b9-a4a2-4cee-9e90-b1afb201b25f" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="Softpark.Application/Softpark.Application.csproj" Id="7796d504-7b28-4879-bbf7-fa1c9d42193a" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Softpark.Domain/Softpark.Domain.csproj" Id="b2042a60-3fc5-4e8d-a91e-075dd96cad2c" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Softpark.Infrastructure/Softpark.Infrastructure.csproj" Id="050850d5-af98-4908-b69c-eeed461eea6b" />
+  </Folder>
+</Solution>
